@@ -59,7 +59,7 @@ public abstract class TileManaProvider extends TileColorableMachineComponent imp
 	}
 
 	public int getManaCapacity() {
-		return 100000;
+		return 10000000000;
 	}
 
 	public void setCurrentMana(int amount) {
